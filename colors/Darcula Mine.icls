@@ -4,7 +4,7 @@
     <property name="created">2017-04-25T20:28:08</property>
     <property name="ide">PyCharmCore</property>
     <property name="ideVersion">2017.1.1.0.0</property>
-    <property name="modified">2017-05-12T12:11:15</property>
+    <property name="modified">2017-05-13T12:41:09</property>
     <property name="originalScheme">Darcula copy</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="19" />
@@ -106,7 +106,9 @@
       <value />
     </option>
     <option name="PY.PARAMETER">
-      <value />
+      <value>
+        <option name="FOREGROUND" value="b23a4b" />
+      </value>
     </option>
     <option name="PY.PARENTHS">
       <value />
